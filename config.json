@@ -1,0 +1,7 @@
+{
+  "database": "data/database",
+  "tables": ["users", "games"],
+
+  "users_columns": ["id", "Nick"],
+  "games_columns": ["id", "Result"]
+}
